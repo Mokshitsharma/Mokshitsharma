@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="44" viewBox="0 0 152 44" role="img" aria-labelledby="t">
+<title id="t">GitHub</title>
+<style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}</style>
+<rect x="1" y="1" width="150" height="42" rx="21" fill="#0B1628" stroke="#1E2D45" stroke-width="1.5"/><circle cx="21" cy="14" r="3" fill="none" stroke="#22D3EE" stroke-width="2"/><circle cx="21" cy="30" r="3" fill="none" stroke="#22D3EE" stroke-width="2"/><circle cx="32" cy="18" r="3" fill="none" stroke="#22D3EE" stroke-width="2"/><path d="M21 17v10M32 21c0 5-11 3-11 6" fill="none" stroke="#22D3EE" stroke-width="2"/><text x="46" y="27" font-size="15" font-weight="600" fill="#E6EDF7">GitHub</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-labelledby="t">
+<title id="t">Section divider</title>
+<style>text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}</style>
+<line x1="0" y1="12" x2="560" y2="12" stroke="#1E2D45" stroke-width="1.5"/>
+<line x1="640" y1="12" x2="1200" y2="12" stroke="#1E2D45" stroke-width="1.5"/>
+<circle cx="580" cy="12" r="4" fill="#2F81F7"/><circle cx="600" cy="12" r="4" fill="#F43F5E"/><circle cx="620" cy="12" r="4" fill="#22D3EE"/>
+</svg>
