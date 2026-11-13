@@ -86,7 +86,7 @@ LLM agents that plan, use tools and check their own work before acting.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Mokshitsharma/SettleAI"><img src="assets/project-cards/settleai.svg" width="100%" alt="SettleAI: what it is, how it works in three steps, and its key results" /></a>
+<a href="https://github.com/Mokshitsharma/settleai"><img src="assets/project-cards/settleai.svg" width="100%" alt="SettleAI: what it is, how it works in three steps, and its key results" /></a>
 
 
 <sub>TypeScript · Next.js · PostgreSQL (PGlite) · PayPal · Groq · MCP</sub><br/>
@@ -262,7 +262,7 @@ In progress: AWS Certified Machine Learning Engineer – Associate (MLA-C02)
 
 **Hackathons and competitions**
 
-- **PayPal AI Hackathon 2026**: participant with [SettleAI](https://github.com/Mokshitsharma/SettleAI)
+- **PayPal AI Hackathon 2026**: participant with [SettleAI](https://github.com/Mokshitsharma/settleai)
 - **Kaggle Playground Series**: two [competition entries](https://github.com/Mokshitsharma/Kaggle-Competitions)
 
 </td>
