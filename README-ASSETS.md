@@ -2,33 +2,19 @@
 
 ## Replace the profile photo
 
-The README shows `assets/profile-photo-placeholder.svg` in the About section, floated right at 190 × 190 px.
+The photo sits in the hero banner, in a circle beside the name. It is embedded inside `assets/hero-banner.svg`
+(GitHub does not load separate image files from inside an SVG), made from `assets/profile-photo.jpg`.
 
-1. Prepare a **square** photo: **400 × 400 px** minimum (800 × 800 px looks sharper on high-DPI screens), PNG or JPG, under 500 KB, face centred.
-2. Save it as `assets/profile-photo.jpg` (or `.png`).
-3. In `README.md`, change the one line that references the placeholder:
-
-   ```html
-   <img src="assets/profile-photo-placeholder.svg" align="right" width="190" height="190" alt="Profile photo of Mokshit Sharma (placeholder)" />
-   ```
-
-   to
-
-   ```html
-   <img src="assets/profile-photo.jpg" align="right" width="190" height="190" alt="Mokshit Sharma" />
-   ```
-
-4. Delete `assets/profile-photo-placeholder.svg`.
-
-Keep the image square, or GitHub will stretch it to the 190 × 190 box.
+To change it: save a new square photo over `assets/profile-photo.jpg`, then re-embed it in `hero-banner.svg`
+(the `<image>` element's `href`, a base64 JPEG of about 480 x 480 px).
 
 ## Asset map
 
 | File | Size (px) | Used in |
 |---|---|---|
-| `assets/hero-banner.svg` | 1200 × 340 | Hero (animated: agent-graph nodes light in turn; stops under reduced motion) |
+| `assets/hero-banner.svg` | 1200 × 340 | Hero: photo beside name, title and location |
 | `assets/links/*.svg` | 152 × 44 | Hero link buttons |
-| `assets/profile-photo-placeholder.svg` | 400 × 400 | About (replace, see above) |
+| `assets/profile-photo.jpg` | 800 × 800 | Source of the hero photo (see above) |
 | `assets/current-focus.svg` | 1200 × 250 | Current focus |
 | `assets/project-thumbnails/*.svg` | 600 × 300 each | Featured projects |
 | `assets/architecture/movigo.svg` | 1200 × 400 | Experience, Movigo case study |
