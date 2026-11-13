@@ -113,7 +113,7 @@ LLM agents that plan, use tools and check their own work before acting.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Mokshitsharma/Naman-Jarvis"><img src="assets/project-cards/naman.svg" width="100%" alt="Naman: what it is, how it works in three steps, and its key results" /></a>
+<a href="https://github.com/Mokshitsharma/Naman-Showcase"><img src="assets/project-cards/naman.svg" width="100%" alt="Naman: what it is, how it works in three steps, and its key results" /></a>
 
 
 <sub>Python · LangGraph · Groq · Whisper · MCP · Telegram · free tiers only</sub>
